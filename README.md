@@ -1,5 +1,5 @@
 # sth_sec_front
-一个基于React,Reduc的前端系统，利用Antd组件库来实现。
+一个基于React,Redux的前端系统，利用Antd组件库来实现。
 
 **screenshot**
 
