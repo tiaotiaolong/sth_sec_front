@@ -36,9 +36,9 @@ class LeftMenu extends React.Component {
               key="sub1"
               title={<span><Icon type="user" /><span>User</span></span>}
             >
-              <Menu.Item key="3">商乐楷</Menu.Item>
-              <Menu.Item key="4">董博</Menu.Item>
-              <Menu.Item key="5">唐天龙</Menu.Item>
+              <Menu.Item key="3">Netfairy</Menu.Item>
+              <Menu.Item key="4">ZPC</Menu.Item>
+              <Menu.Item key="5">跳跳龙</Menu.Item>
             </SubMenu>
             <SubMenu
               key="sub2"
