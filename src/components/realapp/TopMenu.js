@@ -23,10 +23,10 @@ class TopMenu extends React.Component {
         selectedKeys={[this.state.current]}
         mode="horizontal">
         <Menu.Item key="mail">      
-          <Icon type="mail" />艺龙安全首页
+          <Icon type="mail" />安全首页
         </Menu.Item>
         <Menu.Item key="app" >
-          <Icon type="appstore" />艺龙安全WiKi
+          <Icon type="appstore" />安全WiKi
         </Menu.Item>
         <SubMenu title={<span><Icon type="setting" />HIDS Wazuh</span>}>
           <MenuItemGroup title="Item 1">
